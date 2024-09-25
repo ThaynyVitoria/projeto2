@@ -1,5 +1,4 @@
-
-
+//Thayny Vitoria 3D 18/09/2024
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
